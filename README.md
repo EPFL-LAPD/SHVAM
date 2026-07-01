@@ -20,8 +20,8 @@
   </p>
 
   <p align="center">
-    <a href='https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Nicolet2024Inverse.pdf'>
-      <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat-square' alt='Paper PDF'>
+    <a href='https://arxiv.org/pdf/2601.16330'>
+      <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat-square' alt='Paper (arXiv) PDF'>
     </a>
   </p>
 </p>
