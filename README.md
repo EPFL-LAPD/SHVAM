@@ -4,7 +4,7 @@
 
   <h1 align="center"><a href="">Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization</a></h1>
 
-  <a href="https://rgl.epfl.ch/publications/Nicolet2024Inverse">
+  <a href="https://felixwechsler.science/pages/publications/SHVAM/">
     <img src="https://raw.githubusercontent.com/EPFL-LAPD/SHVAM/refs/heads/main/banner_github.jpg" alt="Logo" width="100%">
   </a>
 
