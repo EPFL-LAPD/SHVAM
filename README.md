@@ -19,16 +19,10 @@
     ·
   </p>
 
-  <p align="center">
-    <a href='https://arxiv.org/pdf/2601.16330'>
-      <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat-square' alt='Paper (arXiv) PDF'>
-    </a>
-  </p>
 </p>
 
 
-<br />
-<br />
+[![arXiv](https://img.shields.io/badge/arXiv-2601.16330-b31b1b.svg)](https://arxiv.org/pdf/2601.16330)
 
 
 ## Abstract
