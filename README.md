@@ -50,7 +50,7 @@ Open the Jupyter notebook to see an exemplary optimization of one of the conical
 ## Bibtex
 Find the publication here: https://dl.acm.org/doi/10.1145/3811332
 ```bibtex
-@article{10.1145/3811332,
+@article{SHVAM,
 author = {Wechsler, Felix and Rizzo, Riccardo and Moser, Christophe},
 title = {Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization},
 year = {2026},
